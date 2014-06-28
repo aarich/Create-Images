@@ -1,20 +1,16 @@
 input.pcd
-1
+photos/
 3
-2
-5
-100
-100
-0.01f
 200
+200
+0.01f
+300
 
 ===================================
 
 cloudname
-Number of roll states to go through
-Number of pitch states to go through
-Number of yaw states to go through
-Number of places
+directory to save photos
+Number of places per side
 image width
 image height
 resolution

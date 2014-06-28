@@ -1,0 +1,17 @@
+input.pcd
+photos/
+3
+100
+100
+0.01f
+200
+
+===================================
+
+cloudname
+directory to save photos
+Number of places per side
+image width
+image height
+resolution
+f
