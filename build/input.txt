@@ -1,0 +1,21 @@
+input.pcd
+1
+3
+2
+5
+100
+100
+0.01f
+200
+
+===================================
+
+cloudname
+Number of roll states to go through
+Number of pitch states to go through
+Number of yaw states to go through
+Number of places
+image width
+image height
+resolution
+f
